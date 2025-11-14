@@ -11,9 +11,9 @@ echo -e "  INSTALLING ALL ENUM TOOLS"
 echo -e "=============================${RESET}"
 
 # Update system
-echo -e "${GREEN}[+] Updating system...${RESET}"
-sudo apt update -y
-sudo apt upgrade -y
+# echo -e "${GREEN}[+] Updating system...${RESET}"
+# sudo apt update -y
+# sudo apt upgrade -y
 
 # Install Nmap
 echo -e "${GREEN}[+] Installing Nmap...${RESET}"
